@@ -17,6 +17,7 @@
             {
                 Console.WriteLine(i);
             }
+            number = 0; // Reset the counter for the next number
         }
     }
 }
